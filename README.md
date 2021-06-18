@@ -72,25 +72,40 @@ Tech Stack
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
+<br/>
 
-## My Contributions ⛳
+<h2 align='center'>
+My Contributions 
+</h2>
 
-<h3 align='center'> Projects 🗄️ </h3>
+### Open Source Initiatives ⛳
 
 | Name                                             | Description                                                                                                                          | Source Code                                                                                                                                                    |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [WheresMyJab](https://wheresmyjab.com/findSlots) | Find available vaccination slots in real-time • Categorise your search with relevant filters • Get instantly notified when available | [![Github All Releases](https://img.shields.io/github/downloads/TheSinghsDen/WheresMyJab/total.svg?logoWidth=40)](https://github.com/TheSinghsDen/WheresMyJab) |
 
-#### The Stats 🚴‍♂️
+<br/>
+
+<h2 align='center'>
+The Stats
+</h2>
 
 <p align = 'center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheSinghsDen&show_icons=true&theme=dark" width=420/> <br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSinghsDen&layout=compact&theme=dark&hide=css">
 </p>
+<br/>
 
-## People Visiting Me ![](https://komarev.com/ghpvc/?username=TheSinghsDen)<br/>
+<h2 align='center'>
+People Visiting Me
+</h2>
 
-<h3 align = 'center'>Thank You 💚</h3>
+<p align="center">
+ <img align="center" src="https://komarev.com/ghpvc/?username=TheSinghsDen">
+</p>
+<br/>
+
+<h1 align = 'center'>Thank You 💚</h1>
 <!--- ### Hi there, I'm Harjas.
 ### I'm a self-taught M.E.R.N full stack developer.
 ### I love automating stuff with Python
