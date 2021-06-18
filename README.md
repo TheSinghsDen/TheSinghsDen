@@ -1,7 +1,7 @@
 <h1 align='center'>
   Hello, I am Harjas 👋
   <br/>
-  <h3 align = 'center'>I am a self taught Full Stack Developer specializing in Progressive Web Apps, Single Page Applications, API design, System Design and Database Architecture. </h3>
+  <h3 align = 'center'>I am a Full Stack Developer experienced in Progressive Web Apps, Single Page Applications, API design, System Design and Database Architecture. </h3>
 </h1>
 <br/>
 
