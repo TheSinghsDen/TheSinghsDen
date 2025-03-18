@@ -5,16 +5,6 @@
 </h1>
 <br/>
 
-<h2 align = 'center'>Get in touch 🌐</h2>
-<p align='center'>  
-  <a href="https://www.linkedin.com/in/harjas-singh-anand/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;  
-  <a href="https://twitter.com/the_singhs_den">
-    <img src="https://img.shields.io/badge/Twitter-%231da1f2?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;  
-</p>
-
 <br/>
 
 <h2 align='center'>
